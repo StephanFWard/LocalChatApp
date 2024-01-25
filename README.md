@@ -1,6 +1,6 @@
 # LocalChatApp
 
-LocalChatApp is a simple chat application with a Rails backend and a React frontend.
+LocalChatApp is a simple chat application with a Rails backend and a React frontend; in which the networked communication text is displayed on the interface.
 
 **Installation Steps**:
 
